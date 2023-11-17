@@ -6,7 +6,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     specPattern: "./cypress/tests/**.*",
-    baseUrl:"https://the-internet.herokuapp.com"
+    baseUrl:"https://www.amazon.com"
   },
 
   defaultCommandTimeout:60000
